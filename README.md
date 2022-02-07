@@ -5,7 +5,7 @@ described at: https://www.kernel.org/doc/Documentation/process/coding-style.rst
 
 It will automatically apply known rules to kernel related files, such as .c,
 .h, Kconfig and patch files. The main rules are about indentation and syntax
-error highlighting (like exceeding 80 chars).
+error highlighting (like exceeding 100 chars).
 
 If you have any comments, fixes or requests, feel free to contact me or send me
 a patch. The development also takes place on its official [Github 
